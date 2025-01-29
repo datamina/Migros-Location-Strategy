@@ -1,0 +1,2249 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Avenue Louis-Casa\u00ef 27 1211, 28 Geneva, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2187665,
+                "lng": 6.1131166
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.22041047989272,
+                    "lng": 6.114122579892721
+                },
+                "southwest": {
+                    "lat": 46.21771082010728,
+                    "lng": 6.111422920107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "MIGROS",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114677285765747639027\">Khaled A</a>"
+                ],
+                "photo_reference": "AVzFdbn4CsqbZgTj_1RnmvOHjf4L7olGhpuYA6qlpMi6KpvD7j0lr3_QTeTFOWcyufIdzrJvijzFuQDKSYqWcifxa_n7diC9R6WJySIyjU_S7gCZy07BQe9Y4PAubY6kwvMvLRD7QdN0OPlKLMYUUyorEFMCbVzm3882thwjJcNZPP-iARAm",
+                "width": 5120
+            }
+        ],
+        "place_id": "ChIJiRdMPJhkjEcRxskayBMWa2o",
+        "plus_code": {
+            "compound_code": "6497+G6 Geneva",
+            "global_code": "8FR86497+G6"
+        },
+        "rating": 4.3,
+        "reference": "ChIJiRdMPJhkjEcRxskayBMWa2o",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2013
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Pl. de Cornavin 3-7, 1201 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.21078199999999,
+                "lng": 6.143300600000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.21205717989272,
+                    "lng": 6.144708579892723
+                },
+                "southwest": {
+                    "lat": 46.20935752010728,
+                    "lng": 6.142008920107279
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Gen\u00e8ve - Cornavin Gare",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105993380801252879722\">Jos\u00e9 Ferreiro</a>"
+                ],
+                "photo_reference": "AVzFdblne_hphb-VbjjvZ_8MhbjADr5hEw_iRysjxin1clSqct8T6TDR0YLHYqM267xrj_LZkW2_9KRIUOw_MDS_U3Dvh4CGP96DVPhJjVCH6AGg3BPBKuTOYAzdv722_0La5WM-_0GEyC46KJVHHOpqqwaKZ3UCtk15znQ4c628hMI7FVoI",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJnWMzZidljEcR5eqyVExDCvM",
+        "plus_code": {
+            "compound_code": "646V+88 Geneva",
+            "global_code": "8FR8646V+88"
+        },
+        "rating": 4.2,
+        "reference": "ChIJnWMzZidljEcR5eqyVExDCvM",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1978
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue Alexandre-Gavard 35, 1227 Carouge, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1852829,
+                "lng": 6.132852
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.18670392989272,
+                    "lng": 6.133945379892721
+                },
+                "southwest": {
+                    "lat": 46.18400427010727,
+                    "lng": 6.131245720107277
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Migros Geneva Cooperative Society",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116651284070787886238\">Jose Luis Pereira</a>"
+                ],
+                "photo_reference": "AVzFdbmfbWFQvGY5J0kOY8sY0rkz3-chYMKEZcEjdm0bf0N5TAaig2NLxVCYNF2XySFTqywcNCt5cGFlcyu5y9X4buoXAAjh8i4CtLB7KSSMficvNMY3wWJQxZvR9SazDccewSgK0N30NiMflEObmlna2UYPLke9AuvzdVkI135HsN_EiNXF",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJOapb7SZ7jEcRyIR4QpuK89E",
+        "plus_code": {
+            "compound_code": "54PM+44 Carouge",
+            "global_code": "8FR854PM+44"
+        },
+        "rating": 4.4,
+        "reference": "ChIJOapb7SZ7jEcRyIR4QpuK89E",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 95
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue de la Servette 93, 1202 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.213289,
+                "lng": 6.1300577
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.21467027989272,
+                    "lng": 6.131081229892723
+                },
+                "southwest": {
+                    "lat": 46.21197062010727,
+                    "lng": 6.128381570107279
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Servette",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 9248,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111669994702386023078\">Mark Joseph</a>"
+                ],
+                "photo_reference": "AVzFdbntofDYUWf_flvJhJH9gxNnxtgY4go1o42x5v16kao4Mk_i08z0O8QDrbeNQgPYLaRWJ3JGoGJDnb03SsLoqVOrlJIN0n_MBf5xtSUnNhEd-zs437R_JvACQmIHrXj0WyxdJVxQZS3TVISrvLbYGuZXYKi8BOcpStkIA2PO3ngh_cAw",
+                "width": 6936
+            }
+        ],
+        "place_id": "ChIJS0fsRJ5ljEcRAiINimSyDUA",
+        "plus_code": {
+            "compound_code": "647J+82 Geneva",
+            "global_code": "8FR8647J+82"
+        },
+        "rating": 4.3,
+        "reference": "ChIJS0fsRJ5ljEcRAiINimSyDUA",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 74
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "formatted_address": "Chem. de la Tourelle 2-4, 1209 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2245134,
+                "lng": 6.1262228
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.22580362989271,
+                    "lng": 6.127715029892721
+                },
+                "southwest": {
+                    "lat": 46.22310397010727,
+                    "lng": 6.125015370107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Gen\u00e8ve - Tourelle",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103581933713466670848\">David W. Miller</a>"
+                ],
+                "photo_reference": "AVzFdbm08nqcjsDJBoEHMp0BgMtV9fW7oI4iu0gJcliXteyUNuy5LuMQv_phjSZh_JF4c1hKzT09IcO5gSiqp37AWLseDQM7PC8-KQH9xNP_W3tpaPdjJ0Ni6ms3cK3NSSH8RbXWHZ3VilEeFeCeRQprRiqo9LY0pfkSm5xMfKwIqnYzz4JE",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJMR7yUOxkjEcRqz97KvTi3Wc",
+        "plus_code": {
+            "compound_code": "64FG+RF Geneva",
+            "global_code": "8FR864FG+RF"
+        },
+        "rating": 4.1,
+        "reference": "ChIJMR7yUOxkjEcRqz97KvTi3Wc",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 322
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue des P\u00e2quis 41, 1201 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2123628,
+                "lng": 6.149683
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.21369102989273,
+                    "lng": 6.151127479892722
+                },
+                "southwest": {
+                    "lat": 46.21099137010728,
+                    "lng": 6.148427820107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Migros",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1068,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115090920006903976026\">Migros</a>"
+                ],
+                "photo_reference": "AVzFdbkTn6s4xP_iRa546Mb8vsHC7x_aQOI8aEhWi1r7fq10AJD7ekJMsadKFMtX0GMYzCV-0oNAt37LXpaURe5gxA83Nd1OaSUQPbPYFNlTiuKYjx7iwskjWpLTHfh4uudVnQXpuiN0xYWd0SqNdnWCVyFImkbMCq9KXA0GQ9iaFL0s9Ror",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJh2DKPiZljEcRWvI4nhWwGQ4",
+        "plus_code": {
+            "compound_code": "646X+WV Geneva",
+            "global_code": "8FR8646X+WV"
+        },
+        "rating": 4.1,
+        "reference": "ChIJh2DKPiZljEcRWvI4nhWwGQ4",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 541
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rte de l'A\u00e9roport 25, 1215 Gen\u00e8ve 15 A\u00e9roport, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2326399,
+                "lng": 6.1124439
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.23395077989272,
+                    "lng": 6.113860279892721
+                },
+                "southwest": {
+                    "lat": 46.23125112010727,
+                    "lng": 6.111160620107277
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Migros Airport Supermarket",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3464,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104970723381381455496\">jean serran</a>"
+                ],
+                "photo_reference": "AVzFdblAJIc3hNOv13a-4xs-bsHzSeo2hAquMd4CTDfl0hC1CHGMvy020ayD_JhS6Zj6y7f1cX0U23H44Hm-SRL4kOXoivRMDECXD44g9nGokMiuINP6uGzLQ2Ety5i9HzQtRhzAlq9NVUiBKtLspoOr7k3AjxbcBYu4AdqnL4njnlnZ78NX",
+                "width": 4618
+            }
+        ],
+        "place_id": "ChIJ1VHhTYRkjEcRHwvgYjH3Xd8",
+        "plus_code": {
+            "compound_code": "64M6+3X Gen\u00e8ve 15 A\u00e9roport, Meyrin",
+            "global_code": "8FR864M6+3X"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ1VHhTYRkjEcRHwvgYjH3Xd8",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 517
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Prom. de l'Europe 11, 1203 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2083607,
+                "lng": 6.124480999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20983472989272,
+                    "lng": 6.125905329892722
+                },
+                "southwest": {
+                    "lat": 46.20713507010728,
+                    "lng": 6.123205670107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Gen\u00e8ve - Charmilles",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1068,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103463163814939141434\">Migros</a>"
+                ],
+                "photo_reference": "AVzFdbkWy-ikGKazhREgS5H4nrvVorKbS55TYdShWjc1JTCu7BDxpEN2iCTri3mSQG2vplOLOAsBw0eBEN6bVpRrNq6mnE7faT83r310hgZqu7v98VYK9AEnVQlT5puLp6vBbe0WbURLp8r6KlRKRB2wXm_ClB5ly0mbFROVwV6v0qs0ZXI6",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJYZALm8hkjEcRS32HEu659r4",
+        "plus_code": {
+            "compound_code": "645F+8Q Geneva",
+            "global_code": "8FR8645F+8Q"
+        },
+        "rating": 4.2,
+        "reference": "ChIJYZALm8hkjEcRS32HEu659r4",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 780
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue de Lausanne 18-20, 1201 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2112558,
+                "lng": 6.144636999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.21261657989272,
+                    "lng": 6.14588177989272
+                },
+                "southwest": {
+                    "lat": 46.20991692010728,
+                    "lng": 6.143182120107276
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Gen\u00e8ve - Les Cygnes",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3464,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102619608558934089491\">Jung Min Lim</a>"
+                ],
+                "photo_reference": "AVzFdbnKXVX7Jl71NhOjjoWMbvbJXpAUb54rF7ZaeOCum4KY5jqb0XHjQYdVmR-L1GNb1mzSLY_hF6D7ppoOXmYex5ZevwoHgszNjK_zr9MqoStbO0fSwntNhlVwPjmJ5vxtPXjec276NJkFf-8YR3QEMoIAdmrh22eUIPU6SmC8PGvH9sgt",
+                "width": 4618
+            }
+        ],
+        "place_id": "ChIJo9JyJCdljEcRGccdn-lo2Yc",
+        "plus_code": {
+            "compound_code": "646V+GV Geneva",
+            "global_code": "8FR8646V+GV"
+        },
+        "rating": 4.1,
+        "reference": "ChIJo9JyJCdljEcRGccdn-lo2Yc",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 937
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Pl. du Cirque 2, 1204 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2010565,
+                "lng": 6.139764200000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20248782989272,
+                    "lng": 6.141288179892722
+                },
+                "southwest": {
+                    "lat": 46.19978817010728,
+                    "lng": 6.138588520107279
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Migros",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJxUw9jtVkjEcRZNDvxa-GTw0",
+        "plus_code": {
+            "compound_code": "642Q+CW Geneva",
+            "global_code": "8FR8642Q+CW"
+        },
+        "rating": 3.8,
+        "reference": "ChIJxUw9jtVkjEcRZNDvxa-GTw0",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue des Eaux-Vives 17-19, 1207 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.20382240000001,
+                "lng": 6.1577093
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20515427989272,
+                    "lng": 6.159108129892722
+                },
+                "southwest": {
+                    "lat": 46.20245462010728,
+                    "lng": 6.156408470107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Gen\u00e8ve - Eaux-Vives",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1067,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101983131952437758756\">Migros</a>"
+                ],
+                "photo_reference": "AVzFdbmPaxpLgg_bpie6PkvReXx6FxswSSpro1aVppz0fpGhjLyHrRhPNFt5_myJqldyFXX4T55gONu86iiFN7qVyXjrXPkJWV456VrxpUPs8LnrJbjufb8EGPqoLa2JUVg3dYe0fa4CST-0LQwKIvFCrNT-rhZ0cdkaKYI8eEvLgq3aVxK6",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJrQMX2jZljEcRCwZSifHOBl0",
+        "plus_code": {
+            "compound_code": "6535+G3 Geneva",
+            "global_code": "8FR86535+G3"
+        },
+        "rating": 4.2,
+        "reference": "ChIJrQMX2jZljEcRCwZSifHOBl0",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 629
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue du Vidollet 5, 1202 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2163341,
+                "lng": 6.1395993
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.21772402989272,
+                    "lng": 6.140967329892721
+                },
+                "southwest": {
+                    "lat": 46.21502437010728,
+                    "lng": 6.138267670107277
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Migros Supermarkt",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102094193648881342404\">H\u00e9l\u00e8ne Sorgon</a>"
+                ],
+                "photo_reference": "AVzFdbkxvzIPnMKlDJaDcrSni-PHO3uGa5r70-hxsisw8Ef7dlrJ8hIbjfEFuNpuqJYGNYbJZiH2DuzXuvkCTrXJElj5L0sZ3Jbuzbat1DL6qzy9LSAFKkjMr1Oa-mZxKmZNmyo9sJisaJrC77xNYo7npbjMDfrtpWqOcYcVJjm2H8JNg8V6",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJkaHKEN5kjEcRVNoCimktYiI",
+        "plus_code": {
+            "compound_code": "648Q+GR Geneva",
+            "global_code": "8FR8648Q+GR"
+        },
+        "rating": 4.2,
+        "reference": "ChIJkaHKEN5kjEcRVNoCimktYiI",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 301
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rte de Florissant 86, 1206 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.192017,
+                "lng": 6.1641885
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.19342352989273,
+                    "lng": 6.165550629892723
+                },
+                "southwest": {
+                    "lat": 46.19072387010728,
+                    "lng": 6.162850970107279
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Gen\u00e8ve - Rieu",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2976,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107932828690766033859\">Magda G.</a>"
+                ],
+                "photo_reference": "AVzFdbmUvdGvs-1V_C1mfl53QxeRyl0Y6iqMBUSyMwGwjZg1JjU-yzCc4Tq2BOQGmV1t29xkaug79UyKgMhbfZrmSRXIpJbukh3w8OXTIYikM9uiikuaAJV8sVkAE4jHzUPdALjYbKnmPIuVCKiD3iN1KIFKHdlBGAsWs1ZUJwbyh2G6XJZG",
+                "width": 3968
+            }
+        ],
+        "place_id": "ChIJ-djwLrR6jEcR0qXZr4MScYI",
+        "plus_code": {
+            "compound_code": "55R7+QJ Geneva",
+            "global_code": "8FR855R7+QJ"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ-djwLrR6jEcR0qXZr4MScYI",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 645
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Pl. de la Fusterie 7, 1204 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.203928,
+                "lng": 6.146198999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20553327989272,
+                    "lng": 6.147583429892722
+                },
+                "southwest": {
+                    "lat": 46.20283362010728,
+                    "lng": 6.144883770107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros Express",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111683782365106852319\">ersan ilhan</a>"
+                ],
+                "photo_reference": "AVzFdbl_BgvYOvCQLT_OOPT5ZiDrhTzTY5_ICyj_KCatz6JbORFlBVdYI7jNFjBTpNyUzE5s5-kxAgbTr0mhxmxIMwHUfnDFr07Od1fKf-IKbAZihaiwzF6dEy0ZrxPlDB7l4fBxBE22Ga0GSqugkwDePj5rf5kQkztAhzsgG1zaCma-h-Oi",
+                "width": 3840
+            }
+        ],
+        "place_id": "ChIJW5FwMSlljEcRo2u-3ETKgtw",
+        "plus_code": {
+            "compound_code": "643W+HF Geneva",
+            "global_code": "8FR8643W+HF"
+        },
+        "rating": 4.2,
+        "reference": "ChIJW5FwMSlljEcRo2u-3ETKgtw",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 464
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue de Carouge 64, 1205 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1928795,
+                "lng": 6.1428031
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.19432872989272,
+                    "lng": 6.143981179892721
+                },
+                "southwest": {
+                    "lat": 46.19162907010728,
+                    "lng": 6.141281520107277
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Gen\u00e8ve - Plainpalais",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102187494603002133142\">Dario Brander</a>"
+                ],
+                "photo_reference": "AVzFdbmHJ-mu2N_woZ2W_Wg9YKRtevQpdiFFAgYcd8lzDhtYFkV3gQoADhoPAApafxlboQtbzRA-l_NC3U6UZDz11Ze9lJMthmdExNrfFqxjm_0NtKSrphujp31VQ_XNCPejrGUft0_lEqQJIAm3hrC_0nDYORyf4I79k4hzL2UyZDDX6ESd",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJdxpTHdR6jEcRic21QYx-aXQ",
+        "plus_code": {
+            "compound_code": "54VV+54 Geneva",
+            "global_code": "8FR854VV+54"
+        },
+        "rating": 4.2,
+        "reference": "ChIJdxpTHdR6jEcRic21QYx-aXQ",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1041
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue Sonnex 20, 1218 Le Grand-Saconnex, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2289539,
+                "lng": 6.1198115
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.23031507989272,
+                    "lng": 6.121514579892724
+                },
+                "southwest": {
+                    "lat": 46.22761542010728,
+                    "lng": 6.11881492010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Gd Saconnex - Le Pommier",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110316147232147705528\">noel LUGON</a>"
+                ],
+                "photo_reference": "AVzFdbk8qOSz45uO5aEL8YJb54x4NCtOkJn5z3oFsj2itMsZX3JNZBmHn-bnNFxkqB9WlihA1m0nmMzNCtAObgoxIQUHPKA3YgOkXqr5xZTXIo8epfZ4Pz-QnwiQJf_9nHcxlSy03RIz3K6phWBTT2kAEI78_9b8yJEKcUjUCaPgSgXrfGvX",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJgfjp8o1kjEcRx8vG6cCoWgk",
+        "plus_code": {
+            "compound_code": "64H9+HW Grand-Saconnex",
+            "global_code": "8FR864H9+HW"
+        },
+        "rating": 4.1,
+        "reference": "ChIJgfjp8o1kjEcRx8vG6cCoWgk",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 440
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue de la Terrassi\u00e8re 29, 1207 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2006765,
+                "lng": 6.1589252
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20198392989272,
+                    "lng": 6.160270429892722
+                },
+                "southwest": {
+                    "lat": 46.19928427010728,
+                    "lng": 6.157570770107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Gen\u00e8ve - Villereuse",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103166946481469308801\">Laurent Peissard</a>"
+                ],
+                "photo_reference": "AVzFdbmsEtV-fUOrW_Q-xTGKwLidVMH5gkPaYchr6pfat8-_CqHQ_1ZvjzleozFWLStbNjKt7mV1XRCT3A7UxSTj_0H-aHtS9QiDiuOkZpdywNkyHUPU8e7kPT3ZDzztbTv1umo3EktxxnDzsFivf3_G7L1SdrgOZ1cCT0xshPcfqvi-gJDN",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJrQMX2jZljEcReVzA4haWklo",
+        "plus_code": {
+            "compound_code": "6525+7H Geneva",
+            "global_code": "8FR86525+7H"
+        },
+        "rating": 4.2,
+        "reference": "ChIJrQMX2jZljEcReVzA4haWklo",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 664
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Bd Carl-Vogt 6, 1205 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.200814,
+                "lng": 6.1306505
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20218457989272,
+                    "lng": 6.132071979892721
+                },
+                "southwest": {
+                    "lat": 46.19948492010728,
+                    "lng": 6.129372320107277
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "MIGROS",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1152,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111364151606411872868\">ana maria Navarro</a>"
+                ],
+                "photo_reference": "AVzFdbkln5nfkmIonWv21ivZDXQpkRZyDwiwc9HLfg1bCLjUuoZOXW0EYTG51sR7afXvHTNW4dk2WolTOT_S1iRspnMgTiDRyWlbHI9mUmMpArHx0CKrUl7hTqowLO85MHktR17DeESNgtdDxI0zBXRGV4yO7EO4IAP8i0pA532skboc_4UI",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJDS7sX9JkjEcRBpo_wMqUP5E",
+        "plus_code": {
+            "compound_code": "642J+86 Geneva",
+            "global_code": "8FR8642J+86"
+        },
+        "rating": 4.1,
+        "reference": "ChIJDS7sX9JkjEcRBpo_wMqUP5E",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 518
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. de Champel 61, 1206 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1908333,
+                "lng": 6.1525
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.19224557989273,
+                    "lng": 6.153987279892722
+                },
+                "southwest": {
+                    "lat": 46.18954592010729,
+                    "lng": 6.151287620107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Migros Supermarket",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103936092750353306580\">Thomas Birbaum</a>"
+                ],
+                "photo_reference": "AVzFdbkox2qwGr0O5y8lKuVaeIt2DJWz2W5Ny1MOCGWyThqGMNsQGreEjlfPHGDq6fsSi7Rak_hcvb9K8tSljuyjvdCy_1-DIv1PeCNX80UIxJqjqCr1b5jdmRkhIIkmGPcFHqMm8Q8klMqKkL7wza12tCn4v7tnEM1p9FQoqSdwExurshoC",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJN_eI8856jEcRCID-IOAkxfY",
+        "plus_code": {
+            "compound_code": "55R3+82 Geneva",
+            "global_code": "8FR855R3+82"
+        },
+        "rating": 4.1,
+        "reference": "ChIJN_eI8856jEcRCID-IOAkxfY",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 432
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue des Bossons 78/80, 1213 Petit-Lancy, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1889827,
+                "lng": 6.1105013
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.19018547989272,
+                    "lng": 6.111648829892721
+                },
+                "southwest": {
+                    "lat": 46.18748582010728,
+                    "lng": 6.108949170107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1068,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112652175638176018322\">Migros</a>"
+                ],
+                "photo_reference": "AVzFdbl4vD3Xrx-Das3Qh9F59LBzeUqoFG85W_a9_Ul54_1UL4b4BFAXdJeFaLxsbpEFFQZ1q8RiC0_uKPHnCMn0KPvmWYR_smBWIwCLVN6irJgIM_MRdLKV4Wif2PGMqW1kf5gk9VEZ1uERwZaWLTUyJf-o6CVtp7pHFwswxJOM36R0KRHg",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJ17ID4UV7jEcRf7EZ-MHyTMk",
+        "plus_code": {
+            "compound_code": "54Q6+H6 Lancy",
+            "global_code": "8FR854Q6+H6"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ17ID4UV7jEcRf7EZ-MHyTMk",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1384
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Arcenter, Rte de Peney 2-4, 1214 Vernier, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.216972,
+                "lng": 6.0837772
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.21809367989272,
+                    "lng": 6.084912679892721
+                },
+                "southwest": {
+                    "lat": 46.21539402010728,
+                    "lng": 6.082213020107277
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Vernier - Arcenter",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2294,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101223853017961831655\">Olivier Pensis</a>"
+                ],
+                "photo_reference": "AVzFdblIVnOHFEPwpQUJRt348KVve6I2WjCCqZTvIBWyMKXHX0C9ef0M-Spd7Z8kir0y4T7Eky4u9zgkUJLrmHMZWj9CS59VnWDmAGchhyZUU_ucHLSr47kl03iGJ8OfCnRry4rRU2aDIPG2tRwJKTQarDGGyi6q9czVaypG3m2ljc55SlA8",
+                "width": 3424
+            }
+        ],
+        "place_id": "ChIJLT3osUZjjEcRz7dfie0McU0",
+        "plus_code": {
+            "compound_code": "638M+QG Vernier",
+            "global_code": "8FR8638M+QG"
+        },
+        "rating": 4.2,
+        "reference": "ChIJLT3osUZjjEcRz7dfie0McU0",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 389
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Pl. du Cirque 2, 1205 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2010503,
+                "lng": 6.1399726
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20237522989272,
+                    "lng": 6.141390079892721
+                },
+                "southwest": {
+                    "lat": 46.19967557010728,
+                    "lng": 6.138690420107277
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "VOI Gen\u00e8ve-Cirque",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3096,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107362806584561296589\">michael contassot</a>"
+                ],
+                "photo_reference": "AVzFdbkEU6wr-uvYpwbaAN8E8QWEYyDPtsapYGWGX5S0o-1oOt7A9GX-yW0zR3nEglt2_7HktE6-GzU9dGbI3DO_mx-T6ecIaxQM9JTQS-ypBMi25lZTDvULUUq2eokx0f880cwMbAcW52ceXgwTjFGnezCr26DI9aB2hCM06w9FSKLu9T-B",
+                "width": 4128
+            }
+        ],
+        "place_id": "ChIJW5FwMSlljEcRWG5rL2Iz_3E",
+        "plus_code": {
+            "compound_code": "642Q+CX Geneva",
+            "global_code": "8FR8642Q+CX"
+        },
+        "rating": 4.1,
+        "reference": "ChIJW5FwMSlljEcRWG5rL2Iz_3E",
+        "types": [
+            "supermarket",
+            "bakery",
+            "health",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 297
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Vibert 32, 1227 Carouge, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.18479929999999,
+                "lng": 6.1339501
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.18597547989273,
+                    "lng": 6.135554029892722
+                },
+                "southwest": {
+                    "lat": 46.18327582010728,
+                    "lng": 6.132854370107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "MParc La Praille",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102226214045269179279\">Christophe Gevrey</a>"
+                ],
+                "photo_reference": "AVzFdbnWSXKPhv1DKXnaBH8FswqW_w66PssHUKjtPVHMzSFMecw6eLYHjTjVpQoyqW3snCqYlSec5xOgH9hX3jCl5BT0Uc9gG2HZD8vRJNYUPEBOmI4pTnwklsnHBhvkoGtA1eXI12hV1-xvYd8Pe64b4MRY3R1hP0PfURjqh6Hlc6ygY086",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJBZ1R1CB7jEcRBlgH6B7Oc9Q",
+        "plus_code": {
+            "compound_code": "54MM+WH Carouge",
+            "global_code": "8FR854MM+WH"
+        },
+        "rating": 4.2,
+        "reference": "ChIJBZ1R1CB7jEcRBlgH6B7Oc9Q",
+        "types": [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3962
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. de Feuillasse 24, 1217 Meyrin, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2322514,
+                "lng": 6.082617
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.23328172989272,
+                    "lng": 6.083687479892722
+                },
+                "southwest": {
+                    "lat": 46.23058207010727,
+                    "lng": 6.080987820107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Meyrin",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 667,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112010618158534330334\">Migros</a>"
+                ],
+                "photo_reference": "AVzFdbmHUPDwOGEUqGthRDaVSjnkZqyEM85dhxm_cKABkgQOYFkBwkb8Py4MibiCsPXQHhPscqtUT9QY3zDU67TCAMsP5_FYRHb5_FUD8efIiUT67sl0_muyN0yJjxxcnuoPuqTJW54cTLyFu0_sCjfrD6J-vWiCHJmxrkJWbe9heBVs8YI2",
+                "width": 1000
+            }
+        ],
+        "place_id": "ChIJ-XcO_3JjjEcR7QencwLXFaM",
+        "plus_code": {
+            "compound_code": "63JM+W2 Meyrin",
+            "global_code": "8FR863JM+W2"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ-XcO_3JjjEcR7QencwLXFaM",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 892
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Vibert 29, 1227 Carouge, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.18244230000001,
+                "lng": 6.134388
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.18393387989272,
+                    "lng": 6.135957879892722
+                },
+                "southwest": {
+                    "lat": 46.18123422010728,
+                    "lng": 6.133258220107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Carouge - Vibert",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 667,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109941704664050766070\">Migros</a>"
+                ],
+                "photo_reference": "AVzFdbniXmhcpTVCTYoAoYZLITyGQu7Se0Qcx-abyYdCBGvxFTbUF96s0wCJARTYutj5R0XfBPWfzB4pv8hsx9wA1Xbd4boZyhcJUBcMC_5nj6pCdh9lMlWc8aRW6SbgeAEzNsIGZlW2V_0mk9OHBqQrb9V1jp3QAj0M8MuUwvAna04Vtkqb",
+                "width": 1000
+            }
+        ],
+        "place_id": "ChIJuxiwIyF7jEcRWAVFZhD7BGs",
+        "plus_code": {
+            "compound_code": "54JM+XQ Carouge",
+            "global_code": "8FR854JM+XQ"
+        },
+        "rating": 4.3,
+        "reference": "ChIJuxiwIyF7jEcRWAVFZhD7BGs",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1441
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Esplanade de Pont-Rouge 2, 1212 Lancy, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1870898,
+                "lng": 6.1269613
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.18847362989273,
+                    "lng": 6.128780679892722
+                },
+                "southwest": {
+                    "lat": 46.18577397010728,
+                    "lng": 6.126081020107279
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - M-Express Pont-Rouge",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102187494603002133142\">Dario Brander</a>"
+                ],
+                "photo_reference": "AVzFdbltuWoIwfu0UKe4XKutNzl3MlP39PW_h4u4dUAQn_LO3QJJv7ZHtyBzARcd68ulNaYh-496OImmYZsN9Vt2E0x0Ogh8kOku8jGP6jQjBv62mRadjlR1RQ6NVE04397-xYtVV1DxnqQ60qqOJatwKz6_eIqImMBX1cEo-_jR1s2Y4GbB",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJe3IZyjt7jEcRshMt3FR1s6E",
+        "plus_code": {
+            "compound_code": "54PG+RQ Lancy",
+            "global_code": "8FR854PG+RQ"
+        },
+        "rating": 4.2,
+        "reference": "ChIJe3IZyjt7jEcRshMt3FR1s6E",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 99
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Louis-Casa\u00ef 27, 1209 Vernier, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.21873679999999,
+                "lng": 6.1132453
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.22073584999999,
+                    "lng": 6.11682045
+                },
+                "southwest": {
+                    "lat": 46.21733725000001,
+                    "lng": 6.108556650000001
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Balexert",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114677285765747639027\">Khaled A</a>"
+                ],
+                "photo_reference": "AVzFdbliiF9OVAPS_DN3n9skEOFxY3oWp_FkYEgisFjUbySLSBvAj9XGh9HVXuvc1cbiZ9TeEfC55hPJgHRabR456jebjqvjniNBiRcbxh6q6KNopDp0QqNxQkEaN9ntjTTNpu947oIGSgRjjCUHdAEQd7iCIF4gwtI18wV1EgeJL7AW60i9",
+                "width": 5120
+            }
+        ],
+        "place_id": "ChIJ57Ox0ZdkjEcRsCjktGKcv9Y",
+        "plus_code": {
+            "compound_code": "6497+F7 Vernier",
+            "global_code": "8FR86497+F7"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ57Ox0ZdkjEcRsCjktGKcv9Y",
+        "types": [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10825
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue du March\u00e9 16, 1227 Carouge, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1833862,
+                "lng": 6.1411054
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.18475982989272,
+                    "lng": 6.142503029892723
+                },
+                "southwest": {
+                    "lat": 46.18206017010728,
+                    "lng": 6.139803370107279
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107941205126323143872\">Raphael Fluckiger</a>"
+                ],
+                "photo_reference": "AVzFdblSj68UQWVCtF75tf7mCE5zsYTY3qozcjZVObgCWz3IR6VAW5WX0dDEXqBD4j53tlUNDapLaFdBGCYCGSBRhwcyPEtUQWEBO-iUes-DUvxwKX1Pk1tOasMYYyfbaRs0A1HtFB5E0begtx5Kw6GF6kiqRpqhrZfZ2tu1F-QnPtvkMQIx",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJ--ZFStl6jEcRHktDRGVEnBw",
+        "plus_code": {
+            "compound_code": "54MR+9C Carouge",
+            "global_code": "8FR854MR+9C"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ--ZFStl6jEcRHktDRGVEnBw",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 437
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Louis-Casa\u00ef 27, 1211 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2187665,
+                "lng": 6.1131166
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.22012572989273,
+                    "lng": 6.115228
+                },
+                "southwest": {
+                    "lat": 46.21742607010728,
+                    "lng": 6.1124128
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Change Migros Balexert",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104012785064889412931\">Sandeep Ranade</a>"
+                ],
+                "photo_reference": "AVzFdbnuuvXXdoAb7EqATITDcPiDfp-InV9-IcmoqnGVOYw_Mj7bK4apSVkzjkdXghBZgShza2AnfJI68P-Ms-xFes8yXN_hkee63A0kz3iP_DnV2N9Iws3FQNDHeXJHtDm1lT1NcVwtRGgwJwTRh9WI_81Y8YdIi7rG9tjDWNDaPuFXM-_R",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJT05Y1JdkjEcRZjTl4FIWoD8",
+        "plus_code": {
+            "compound_code": "6497+G6 Geneva",
+            "global_code": "8FR86497+G6"
+        },
+        "rating": 3.5,
+        "reference": "ChIJT05Y1JdkjEcRZjTl4FIWoD8",
+        "types": [
+            "point_of_interest",
+            "finance",
+            "establishment"
+        ],
+        "user_ratings_total": 43
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Pl. du Lignon 29/A, 1219 Vernier, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.203954,
+                "lng": 6.0967781
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20500092989273,
+                    "lng": 6.097979279892722
+                },
+                "southwest": {
+                    "lat": 46.20230127010728,
+                    "lng": 6.095279620107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Le Lignon",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1068,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111992128029658288380\">Migros</a>"
+                ],
+                "photo_reference": "AVzFdbkJ7EAIz-ZGdQhDbhQH7AzDa4bOJK_zMlN-0xS1zqNuwVwtr7s8zryd5HMhxVZClwUTVkB0jJjp_MZvaa76GPp-gTYnCp1s5kjnGyMviOjYg77PhroMwlHQxe4bliQ-raFM--SaF1DUuutzmk_HJs-1cbWTjR2qM-GjF_whxz4HN3sG",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJIfmGdqpkjEcRbOgU9l2Jhsc",
+        "plus_code": {
+            "compound_code": "633W+HP Vernier",
+            "global_code": "8FR8633W+HP"
+        },
+        "rating": 4.1,
+        "reference": "ChIJIfmGdqpkjEcRbOgU9l2Jhsc",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 264
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue de Cornavin 6, 1201 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2074048,
+                "lng": 6.1424207
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20861377989272,
+                    "lng": 6.144135329892721
+                },
+                "southwest": {
+                    "lat": 46.20591412010728,
+                    "lng": 6.141435670107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "MANOR Gen\u00e8ve",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110577902389001766319\">Jerome Gransac</a>"
+                ],
+                "photo_reference": "AVzFdbnW3XnVNgTi5ktR3RBxvo2FbPwotknZyiEghNxlTczNSwVC-TzTr9A7SDmfkbvaGSS1GBcB_2oqP7RQuoOmh7WNmyQgo8CqIiRJyI27u5cyjga9RRrYTGkTHpcoxLxkJWjfQhwOHvM-BKdH0wupgrUuuzbU_BbGAz9VE08yG04d2k39",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJf2CC_CdljEcRcvb8eM1qsgY",
+        "plus_code": {
+            "compound_code": "644R+XX Geneva",
+            "global_code": "8FR8644R+XX"
+        },
+        "rating": 4.3,
+        "reference": "ChIJf2CC_CdljEcRcvb8eM1qsgY",
+        "types": [
+            "department_store",
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13795
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Avenue Louis-Casa\u00ef 27 1211, 28 Geneva, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2192641,
+                "lng": 6.1139389
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.22071492989272,
+                    "lng": 6.115531679892722
+                },
+                "southwest": {
+                    "lat": 46.21801527010728,
+                    "lng": 6.112832020107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant Migros",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110304343421206712112\">Migros Restaurant</a>"
+                ],
+                "photo_reference": "AVzFdbkDtBIMzJo4WHudxCzARF31NhEFN7HNzk2XJXWnIpB_rgB9miKKowSYQVu0Tj7zPpGVTE1kcvAcgU6Wam02HSSJrd1KJUQamMfo5gYI_3Sm3x4hBFtKEQd0gd0-nY9VzxLzup0Xp3DLgWESkkfIfe4wg4El-yKvPDNkM3zFOkjX6nDj",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJiRdMPJhkjEcR-2gsIcMUv8A",
+        "plus_code": {
+            "compound_code": "6497+PH Geneva",
+            "global_code": "8FR86497+PH"
+        },
+        "rating": 4.1,
+        "reference": "ChIJiRdMPJhkjEcR-2gsIcMUv8A",
+        "types": [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 831
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Chem. de la Gradelle 10, 1224 Ch\u00eane-Bougeries, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2053695,
+                "lng": 6.1819736
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20679212989273,
+                    "lng": 6.183380979892723
+                },
+                "southwest": {
+                    "lat": 46.20409247010728,
+                    "lng": 6.180681320107279
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Gradelle",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1238,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108600914657506757757\">Mounir Bouhara</a>"
+                ],
+                "photo_reference": "AVzFdbn4V7zjjA8i1uYdlEfQVQ7KC6vwyry_7Odb7CazuBm26Ku311MPdgKXI1pRdqeDhPCaCN6rgxt4gGRARdgVJYfq2z4rTxIPW2aEOGB2BF0WMi5XXK5fetQxYGxOMTvjMMTvzqGS8yyDqUp02RElApX2IdVmRlcdUB3ShcDdHUUdFGlj",
+                "width": 2539
+            }
+        ],
+        "place_id": "ChIJyRax_FlljEcRLjWqtTF0QDs",
+        "plus_code": {
+            "compound_code": "654J+4Q Ch\u00eane-Bougeries",
+            "global_code": "8FR8654J+4Q"
+        },
+        "rating": 4.2,
+        "reference": "ChIJyRax_FlljEcRLjWqtTF0QDs",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 434
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Vibert 32, 1227 Carouge, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1851514,
+                "lng": 6.134137300000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.18616402989272,
+                    "lng": 6.135616979892721
+                },
+                "southwest": {
+                    "lat": 46.18346437010727,
+                    "lng": 6.132917320107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Do it + Garden",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110466144830334810215\">Marc Martinez</a>"
+                ],
+                "photo_reference": "AVzFdbkfiTZ4Qp8sjgKz3dhicf1RZ1KMNGS-jTraELdwELcHQXkrp6fGbWItDXXdOl_BZwFcvse5Saugwm_iFzHd5gcgHy7nrXSA2YMmOF3R3G26MGpMTqu3n7hMqW8txlo80B0RNcs7VSI_aaXDrdluzsU7SVLtUzteyQBi0soG9Osp4bd7",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJMR3cLid7jEcRcI4ZV8XFfpQ",
+        "plus_code": {
+            "compound_code": "54PM+3M Carouge",
+            "global_code": "8FR854PM+3M"
+        },
+        "rating": 4.4,
+        "reference": "ChIJMR3cLid7jEcRcI4ZV8XFfpQ",
+        "types": [
+            "hardware_store",
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 601
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. des Communes-R\u00e9unies 52, 1212 Lancy, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1750227,
+                "lng": 6.1225121
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.17638482989272,
+                    "lng": 6.123947129892722
+                },
+                "southwest": {
+                    "lat": 46.17368517010728,
+                    "lng": 6.121247470107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Supermarch\u00e9 Migros - Grand-Lancy - Palettes",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1068,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105579086720335061149\">Migros</a>"
+                ],
+                "photo_reference": "AVzFdbnbtxvaLZZvl1YxURhUH4GDTKpGsesCwvCvZP6lJoCjUQ1_dZ4rB4FoDOixJVvAaufkk4M-SLDuDeOH1jBRqhlt42rayJDD7B7ur0nMoUKwuKwTggPU7y8_eDMEzJcskUJW6DEj392Dwm50a8odfFpjcwfkAIx6QFc5UdCEUCzF8vWK",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJVQ7ptBB7jEcRMD_8eCvnOuk",
+        "plus_code": {
+            "compound_code": "54GC+2X Lancy",
+            "global_code": "8FR854GC+2X"
+        },
+        "rating": 4.1,
+        "reference": "ChIJVQ7ptBB7jEcRMD_8eCvnOuk",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 565
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Centre Commercial Balexert Cointrin CH, Av. Louis-Casa\u00ef 27, 1211 Geneva, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2187665,
+                "lng": 6.1131166
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.22040892989272,
+                    "lng": 6.115228
+                },
+                "southwest": {
+                    "lat": 46.21770927010728,
+                    "lng": 6.1124128
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Migros Print-Shop Balexert",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 800,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113463343079051485152\">A Google User</a>"
+                ],
+                "photo_reference": "AVzFdblg6t4wvH0ttrfrcOIQDDF7kaNWTNl6nMlGLGynMk-EGh8YLYRylEUtcYVTo4b7hMio-X1EISbGGp6kQ82yvo0hqyuaYj8L5mvQyVEtcL_xIOHEYehw0vTox5BuglvRfQUUhN1yrdquLdpPpZi5Zo2tPgk3hkZlEy3txTqsiFbrXa4w",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJTXoY3JdkjEcRZ_szpcg93M4",
+        "plus_code": {
+            "compound_code": "6497+G6 Geneva",
+            "global_code": "8FR86497+G6"
+        },
+        "rating": 4.3,
+        "reference": "ChIJTXoY3JdkjEcRZ_szpcg93M4",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 116
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Prom. de l'Europe 11, 1203 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2079064,
+                "lng": 6.1230213
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.20948847989273,
+                    "lng": 6.124274829892721
+                },
+                "southwest": {
+                    "lat": 46.20678882010728,
+                    "lng": 6.121575170107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Take Away - Gen\u00e8ve - Charmilles",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 671,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112122506401642085149\">Migros Take Away/Gourmessa</a>"
+                ],
+                "photo_reference": "AVzFdblP3Cga2rg-lmlnvwu08V3pIKUxit4fOmf6ZsVWvXmIvs1L_4An-73VCedWak3GFQSXI7zpP1cYZWL8AEJlbUx4mpQ4rAEn-75yma5p9EJ-XTI745A71o8wOYG4kySLOmEl2rzNqvr8LPIdMvjiCqvJnf_SEuXsJaJeRcvHhS9E_N6U",
+                "width": 1297
+            }
+        ],
+        "place_id": "ChIJnVFdp8hkjEcRVGLI8p9a8vU",
+        "plus_code": {
+            "compound_code": "645F+56 Geneva",
+            "global_code": "8FR8645F+56"
+        },
+        "rating": 3.4,
+        "reference": "ChIJnVFdp8hkjEcRVGLI8p9a8vU",
+        "types": [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 14
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3, place de la Diversit\u00e9, 1217 Meyrin, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2307957,
+                "lng": 6.067443799999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.23195227989272,
+                    "lng": 6.068780079892722
+                },
+                "southwest": {
+                    "lat": 46.22925262010727,
+                    "lng": 6.066080420107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "VOI- Les Vergers",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114587127407211991405\">Farzad MAFAKHERI</a>"
+                ],
+                "photo_reference": "AVzFdbm1JubterGCsdtLksojSLbRIqZRRShGoddiw2GZ1zLSjliU__rGiHMZi9L0FOzXclHDjX0cfbJlAtFzi_xi15S1Bn9ckqRQoqIDW2sxSreUvh3SCvzGFeHmb2bNloXH-Cf4aLrxEcmiqrNcFUQZ6dXOeBuN8cK-QGonf4XoVas9t0xG",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJX-sXatjWj0cRb8B9-JuOhZY",
+        "plus_code": {
+            "compound_code": "63J8+8X Meyrin",
+            "global_code": "8FR863J8+8X"
+        },
+        "rating": 4.7,
+        "reference": "ChIJX-sXatjWj0cRb8B9-JuOhZY",
+        "types": [
+            "supermarket",
+            "bakery",
+            "health",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 304
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue de Carouge 64, 1205 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1930324,
+                "lng": 6.1436389
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.19449017989272,
+                    "lng": 6.144554550000001
+                },
+                "southwest": {
+                    "lat": 46.19179052010728,
+                    "lng": 6.141676349999997
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "restaurant Migros - Gen\u00e8ve - Plainpalais",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109317626616916123880\">Christine FANELLI</a>"
+                ],
+                "photo_reference": "AVzFdbn_UkFWOnrGVj-oeyiDKgL8h7kBgzuOaDDBakKuT-XlxfBLFDVy2Stb3pS5IdNff78JLXcl-WKrjSt_2dEpEzlJZTKbkPM4_QbC0NIF4FvLTbCBLwL0Hr6x8ZWyg818PV2kylll3yvZ90-I9cTRvpkrukrfwT3FVF-h6AOMPoB0Q2SD",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ4dQ7A9R6jEcRRG9Bub9bSak",
+        "plus_code": {
+            "compound_code": "54VV+6F Geneva",
+            "global_code": "8FR854VV+6F"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJ4dQ7A9R6jEcRRG9Bub9bSak",
+        "types": [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 231
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue du Conseil-G\u00e9n\u00e9ral 20, 1203 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1985281,
+                "lng": 6.1428661
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.19990317989272,
+                    "lng": 6.144251379892721
+                },
+                "southwest": {
+                    "lat": 46.19720352010727,
+                    "lng": 6.141551720107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Migros Print-Shop Plainpalais",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106585804229953415571\">Migros Print-Shop Plainpalais</a>"
+                ],
+                "photo_reference": "AVzFdbnuLb6ZQgIiKWTvyskFpQObPSC4esg9PHcXa0MF4JaPJau-jRx7V-Oz1VxE93f2NDH-BfG9R1nDUApkst7_ZXi6EjEnvkprxNMXdKPH_6KWMGZU-L0Iu5JP49AYAG5_GT1E_GMHp3fDmHKpc8aspFq3jbHihQXkA-Gy-J40zvcfUv40",
+                "width": 6016
+            }
+        ],
+        "place_id": "ChIJI9fIICtljEcRfeOJNIkVF1o",
+        "plus_code": {
+            "compound_code": "54XV+C4 Geneva",
+            "global_code": "8FR854XV+C4"
+        },
+        "rating": 3.8,
+        "reference": "ChIJI9fIICtljEcRfeOJNIkVF1o",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 107
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rte de Vernier 184, 1214 Vernier, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.21705069999999,
+                "lng": 6.0871744
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.21838072989273,
+                    "lng": 6.088553829892721
+                },
+                "southwest": {
+                    "lat": 46.21568107010729,
+                    "lng": 6.085854170107277
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "M-Outlet",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2976,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117372125566365951353\">Cyril Lenz</a>"
+                ],
+                "photo_reference": "AVzFdbnSBQydm5xqRSZZRuA82vVRozNlvVyVuzxXsBrUBKCMrGZxBsG67ncvnAskZQnkPjUwprFd4yhecGa3byDxg4yPmdQ4X798tN5_JyXWqdFCcqFadqMp_cGyjsFEdL60CbLUSQ6koQKU0ga4-lT00ULeXCbOZjXnbk6yI9xGnO-CfnBQ",
+                "width": 3968
+            }
+        ],
+        "place_id": "ChIJB5a0JUNjjEcR1k-fMSJkhUo",
+        "plus_code": {
+            "compound_code": "638P+RR Vernier",
+            "global_code": "8FR8638P+RR"
+        },
+        "rating": 4,
+        "reference": "ChIJB5a0JUNjjEcR1k-fMSJkhUo",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 479
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rte de Saint-Julien 176, 1228 Plan-les-Ouates, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.1674972,
+                "lng": 6.1152885
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.16881102989272,
+                    "lng": 6.116671629892721
+                },
+                "southwest": {
+                    "lat": 46.16611137010727,
+                    "lng": 6.113971970107277
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "MIGROS",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114467324601460754269\">Manga Manga</a>"
+                ],
+                "photo_reference": "AVzFdbmABw2o7AYa73iNuh2HLB2TLqX_2bNZQb3P8Y88Kk2cWy72vNzDxnXbKWDq_3HGICNVTlGcxpGw4e1bp19zAV45-Ktzp4En__uI3bdDGSyDlQZ1p_y0zpq20ZlzBSDi9564x2xwVbbGi9zHrQK1IWrcCseGAeJdmYuz8r9Oby_7ojqP",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJuVp8MQx7jEcRODwRuVZLSjE",
+        "plus_code": {
+            "compound_code": "5488+X4 Plan-les-Ouates",
+            "global_code": "8FR85488+X4"
+        },
+        "rating": 4.1,
+        "reference": "ChIJuVp8MQx7jEcRODwRuVZLSjE",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 850
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rue de Lausanne 18-20, 1201 Gen\u00e8ve, Switzerland",
+        "geometry": {
+            "location": {
+                "lat": 46.2112774,
+                "lng": 6.1446352
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.21262577989273,
+                    "lng": 6.145885979892721
+                },
+                "southwest": {
+                    "lat": 46.20992612010728,
+                    "lng": 6.143186320107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "M-Outlet - Gen\u00e8ve - Les Cygnes",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3128,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104865735402392594011\">Alberto Reyes</a>"
+                ],
+                "photo_reference": "AVzFdblbCV9kdMPzBdl2jM9b_mkALjlLHtBBxKRBprez0jeecVqPDIHrR2Ju9K4w_OsRHjs4bs3-HyZ2RBl45uGVkp66iUwuG79SxsyeRTYxATNNNe9Sse0jUMA_FWRPBG5PKEXkPzzvq798ZsinxfOd6lqLlVfsFeWTH8clYxKi-H1CAmyI",
+                "width": 2541
+            }
+        ],
+        "place_id": "ChIJf_H5qEBljEcRHQGMSlnQdKY",
+        "plus_code": {
+            "compound_code": "646V+GV Geneva",
+            "global_code": "8FR8646V+GV"
+        },
+        "rating": 3.5,
+        "reference": "ChIJf_H5qEBljEcRHQGMSlnQdKY",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10
+    }
+]
