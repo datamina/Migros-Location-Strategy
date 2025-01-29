@@ -59,7 +59,7 @@ class Shops:
                 i+=1
 
             # Saving into JSON
-            with open(f"../tmp/{self.shop}_stores_in_{canton}.json", 'w') as f:
+            with open(f"./tmp/{self.shop}_stores_in_{canton}.json", 'w') as f:
                 json.dump(canton_stores, f, indent=4)
 
         print(f"Total results: {len(canton_stores)}")

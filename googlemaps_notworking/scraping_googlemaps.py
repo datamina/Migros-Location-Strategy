@@ -1,7 +1,7 @@
 import json
 import requests
 import time
-from src.canton_stores_retrieving import Shops
+from canton_stores_retrieving import Shops
 
 migros_instance = Shops("Migros")
 migros_instance.get_shops_per_canton()
