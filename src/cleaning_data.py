@@ -7,7 +7,7 @@ import os
 
 def list_of_files(folder_name):
 
-    file_list = glob.glob(f"./data/{folder_name}/*.json")
+    file_list = glob.glob(f"../data/{folder_name}/*.json")
     file_list = [os.path.basename(file) for file in file_list]
     return file_list
 
@@ -18,7 +18,7 @@ def concat_and_clean(shop_name):
 
     def list_of_files(shop_name):
 
-        file_list = glob.glob(f"./data/{shop_name}/*.json")
+        file_list = glob.glob(f"../data/{shop_name}/*.json")
         file_list = [os.path.basename(file) for file in file_list]
         return file_list
     
@@ -27,7 +27,7 @@ def concat_and_clean(shop_name):
     all_data = pd.DataFrame()       # empty df to be filled
 
     for file_name in file_list:         #load content into DFs
-        with open(f"./data/{shop_name}/{file_name}", "r", encoding="utf-8") as file:      
+        with open(f"../data/{shop_name}/{file_name}", "r", encoding="utf-8") as file:      
             data = json.load(file)
 
         # Convert to a DF and concat
