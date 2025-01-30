@@ -26,16 +26,12 @@ def concat_and_clean(file_list):
         df = pd.DataFrame(data)
         all_data = pd.concat([all_data, df], ignore_index=True)
 
-    # Optional cleaning: Uncomment and adjust this as needed
-    # all_data = all_data.drop(columns=['icon', 'icon_background_color', 'icon_mask_base_uri', 'photos', 'reference', 'place_id', 'plus_code', 'opening_hours', 'business_status'])
-    # all_data["postal_code"] = all_data["formatted_address"].str.extract(r'(\b\d{4}\b)')
-    # all_data["city"] = all_data["formatted_address"].str.extract(r'\b\d{4}\b\s([\w-]+)')
-
     return all_data
 
 
 # Get file names
 files = list_of_files('tmp')
+
 # Combine data from the files
 data = concat_and_clean(files)
 data.to_csv("output.csv", index=False)  # Optionally save to CSV
@@ -44,9 +40,9 @@ print(data.info())
 df = data
 #print(sorted(df['name'].unique()))
 
+##### Dropping rows with unknowns
 df = df[df['name'] != 'Unknown']
-
 df = df[(df['postcode'] != 'Unknown') | (df['city'] != 'Unknown')]  # Keep rows where either 'postcode' or 'city' is not 'Unknown'
 
 print(df.info())
-print(df.head())  # Print the first few rows of the cleaned data
+print(df.head())

@@ -1,6 +1,6 @@
 import json
 import pandas as pd
-import glob
+import glob #finds all the pathnames matching a specified pattern 
 import os
 
 ######### prep list with all files names
