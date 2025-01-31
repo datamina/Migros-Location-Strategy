@@ -1,12 +1,6 @@
-# Finding the best Locations for new Migros stores in Switzerland
+# Finding the best locations for new Migros stores in Switzerland
 
-example image:
-
-
-![alternative text](reports/img/pic01.jpg)
-
-
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Objective
 Identifying the most strategic locations to expand Migros stores by analyzing key market factors:
@@ -62,6 +56,10 @@ Identifying the most strategic locations to expand Migros stores by analyzing ke
 * 5 Swiss towns identified as prime locations for new Migros stores.
 * 4 of them in 2 cantons expected to experience significant population growth in the next decade (according to BFS projections).
 
+#### Other Member:
+
+ - Natalia Neamtu (https://github.com/[github handle])
+
 # Following has not been updated
 
 ## Getting Started
@@ -85,10 +83,5 @@ create another "setup.md" file and link to it here*
 * [Blog Post](link)
 
 
-## Contributing Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])**
 
-#### Other Members:
-
- - Natalia Neamtu (https://github.com/[github handle])
