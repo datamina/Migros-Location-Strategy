@@ -1,4 +1,4 @@
-# Project Name
+# Finding the best Locations for new Migros stores in Switzerland
 
 example image:
 
@@ -8,38 +8,61 @@ example image:
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
-## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+## Objective
+Identifying the most strategic locations to expand Migros stores by analyzing key market factors:
+
+* Existing Store Density: Where Migros is already present.
+* Competitor Presence: Including Denner as a competitor.
+* Population Density: More potential customers, better sales.
+* Local GDP: Higher purchasing power means better store performance.
+
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
+* Constructor Academy
+* Website: https://academy.constructor.org/
+  
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
+* Web scraping
+* Descriptive Statistics
 * Data Visualization
-* Predictive Modeling
-* etc.
+* 
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
+
 
 ## Project Description
-(Provide more detailed overview of the project.
-Talk a bit about your data sources and what questions and hypothesis you are exploring.
-What specific data analysis/visualization and modelling work are you using to solve the
-problem? What blockers and challenges are you facing?
-Feel free to number or bullet point things here)
+
+### Strategy
+* Focus on Migros flagship stores vs. flagship stores of other major retailers.
+* Consider Denner as a competitor, despite Migros' ownership (70% since 2007).
+* Aim to expand Migros' market share by tar
+
+### Data & Methodology
+* Geographical Scope: 26 Swiss cantons.
+* Data Sources: OpenStreetMap, Swiss Federal Statistics (BFS), and other open data.
+# Collected Metrics:
+* Number & distribution of supermarkets.
+* Proportion of Migros stores vs. total supermarkets.
+* Potential customers per store.
+* Store density per canton.
+* GDP per capita per region.
+# Tools & Techniques:
+* Data Processing: pandas for analysis.
+* Visualization: matplotlib & plotly for interactive maps and graphs.
+* Web Scraping: Extracting relevant data from public sources.
+# Constraints
+* 3-day challenge
+* Due to issues retrieving data for the cantons of Aargau and Schaffhausen, we were unable to include them in this research. Given time constraints, we had to proceed without their analysis.
+
+
+## Key Findings
+* 5 Swiss towns identified as prime locations for new Migros stores.
+* 4 of them in 2 cantons expected to experience significant population growth in the next decade (according to BFS projections).
+
+# Following has not been updated
 
 ## Getting Started
 
@@ -68,5 +91,4 @@ create another "setup.md" file and link to it here*
 
 #### Other Members:
 
- - [Full Name](https://github.com/[github handle])
- - [Full Name](https://github.com/[github handle])
+ - Natalia Neamtu (https://github.com/[github handle])
