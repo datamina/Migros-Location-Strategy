@@ -26,7 +26,7 @@ Identifying the most strategic locations to expand Migros stores by analyzing ke
 * Web scraping
 * Descriptive Statistics
 * Data Visualization
-* 
+
 
 ### Technologies
 * Python
@@ -43,17 +43,17 @@ Identifying the most strategic locations to expand Migros stores by analyzing ke
 ### Data & Methodology
 * Geographical Scope: 26 Swiss cantons.
 * Data Sources: OpenStreetMap, Swiss Federal Statistics (BFS), and other open data.
-# Collected Metrics:
+#### Collected Metrics:
 * Number & distribution of supermarkets.
 * Proportion of Migros stores vs. total supermarkets.
 * Potential customers per store.
 * Store density per canton.
 * GDP per capita per region.
-# Tools & Techniques:
+#### Tools & Techniques:
 * Data Processing: pandas for analysis.
 * Visualization: matplotlib & plotly for interactive maps and graphs.
 * Web Scraping: Extracting relevant data from public sources.
-# Constraints
+#### Constraints
 * 3-day challenge
 * Due to issues retrieving data for the cantons of Aargau and Schaffhausen, we were unable to include them in this research. Given time constraints, we had to proceed without their analysis.
 
