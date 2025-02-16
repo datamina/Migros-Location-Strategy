@@ -1,4 +1,6 @@
 # Finding the best locations for new Migros stores in Switzerland
+<img width="1146" alt="Screenshot 2025-02-16 at 12 00 27" src="https://github.com/user-attachments/assets/a1003ffb-03ef-4685-b478-02a0f193c5f9" />
+<img width="1143" alt="Screenshot 2025-02-16 at 12 01 16" src="https://github.com/user-attachments/assets/29182b6c-eba0-4516-8848-a86656d230ce" />
 
 #### -- Project Status: [Completed]
 
@@ -56,31 +58,12 @@ Identifying the most strategic locations to expand Migros stores by analyzing ke
 * 5 Swiss towns identified as prime locations for new Migros stores.
 * 4 of them in 2 cantons expected to experience significant population growth in the next decade (according to BFS projections).
 
+## Deliverable
+* [Slide Deck](https://github.com/datamina/migros_stores_challenge/tree/main/Deliverable)
+
 #### Other Member:
 
  - Natalia Neamtu (https://github.com/[github handle])
-
-# Following has not been updated
-
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages)
-create another "setup.md" file and link to it here*
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
 
 
 
