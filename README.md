@@ -12,23 +12,15 @@ Identifying the most strategic locations to expand Migros stores by analyzing ke
 * Competitor Presence: Including Denner as a competitor.
 * Population Density: More potential customers, better sales.
 * Local GDP: Higher purchasing power means better store performance.
-
-
-### Partner
-* Constructor Academy
-* Website: https://academy.constructor.org/
   
-
 ### Methods Used
 * Web scraping
 * Descriptive Statistics
 * Data Visualization
 
-
 ### Technologies
 * Python
 * Pandas, jupyter
-
 
 ## Project Description
 
@@ -62,8 +54,12 @@ Identifying the most strategic locations to expand Migros stores by analyzing ke
 ## Deliverable
 * [Slide Deck](https://github.com/datamina/migros_stores_challenge/tree/main/Deliverable)
 
-#### Other Member:
 
+### Partner
+* Constructor Academy
+* Website: https://academy.constructor.org/
+* 
+### Other Member:
  - Natalia Neamtu (https://github.com/[github handle])
 
 
