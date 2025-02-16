@@ -1,6 +1,7 @@
 # Finding the best locations for new Migros stores in Switzerland
-<img width="1146" alt="Screenshot 2025-02-16 at 12 00 27" src="https://github.com/user-attachments/assets/a1003ffb-03ef-4685-b478-02a0f193c5f9" />
-<img width="1143" alt="Screenshot 2025-02-16 at 12 01 16" src="https://github.com/user-attachments/assets/29182b6c-eba0-4516-8848-a86656d230ce" />
+
+<img width="1146" alt="Screenshot 2025-02-16 at 12 00 27" src="https://github.com/user-attachments/assets/a1003ffb-03ef-4685-b478-02a0f193c5f9" width=50% height=50%/>
+<img width="1143" alt="Screenshot 2025-02-16 at 12 01 16" src="https://github.com/user-attachments/assets/29182b6c-eba0-4516-8848-a86656d230ce" width=50% height=50%/>
 
 #### -- Project Status: [Completed]
 
