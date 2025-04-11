@@ -60,7 +60,7 @@ Identifying the most strategic locations to expand Migros stores by analyzing ke
 * Website: https://academy.constructor.org/
 * 
 ### Other Member:
- - Natalia Neamtu (https://github.com/[github handle])
+ - [Natalia Neamtu](https://github.com/NeamtuN)
 
 
 
